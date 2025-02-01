@@ -24,5 +24,7 @@ Technical Skills: SQL, Vision, Asana, Jira, Confluence, SysML, MS Office, Power 
 
 ## Certifications
 Scrum Alliance: Certified Scrum Master - CSM, Certified Scrum Product Owner - CSPO
+
 Massachusetts Institute of Technology xPRO Certification: Architecture and Systems Engineer
+
 TripleTen: Business Intelligence Analytics
