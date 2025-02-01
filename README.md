@@ -20,4 +20,4 @@ Core Skills: Agile Development, Roadmap Development, Performance Metrics, System
 
 Reliabiity Sciences: FMECA, FMEA, DFMEA, MTBF, MTTR, FRACAS, RCCA, FRB, RBD, RGA
 
-Technical Skills: SQL, Vision, Asana, Jira, Confluence, SysML, MS Office
+Technical Skills: SQL, Vision, Asana, Jira, Confluence, SysML, MS Office, Power BI, Tableau, Google Documents
