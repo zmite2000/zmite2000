@@ -22,6 +22,7 @@ Reliability Sciences: FMECA, FMEA, DFMEA, MTBF, MTTR, FRACAS, RCCA, FRB, RBD, RG
 
 Technical Skills: SQL, Vision, Asana, Jira, Confluence, SysML, MS Office, Power BI, Tableau, Google Documents
 
-Scrum Alliance Certifications: Certified Scrum Master - CSM, Certified Scrum Product Owner - CSPO
+## Certifications
+Scrum Alliance: Certified Scrum Master - CSM, Certified Scrum Product Owner - CSPO
 Massachusetts Institute of Technology xPRO Certification: Architecture and Systems Engineer
 TripleTen: Business Intelligence Analytics
