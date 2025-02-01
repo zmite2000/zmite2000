@@ -21,3 +21,5 @@ Core Skills: Agile Development, Roadmap Development, Performance Metrics, System
 Reliabiity Sciences: FMECA, FMEA, DFMEA, MTBF, MTTR, FRACAS, RCCA, FRB, RBD, RGA
 
 Technical Skills: SQL, Vision, Asana, Jira, Confluence, SysML, MS Office, Power BI, Tableau, Google Documents
+
+Certifications: Certified Scrum Master - CSM, Certified Scrum Product Owner - CSPO, Architecture and Systems Engineer
