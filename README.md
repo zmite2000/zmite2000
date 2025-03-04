@@ -4,7 +4,7 @@
 
 ⭐ Interesting fact about me is my creative resourcefulness. I designed wedding gowns and veils to help pay for a technical degree! This all started because my sister needed a prom dress and I needed to pay a rather high phone bill to our Dad. He agreed to absolve me of my bill if I could make my sister's dream dress. How hard could it be? I was up for the challenge. It was hard. But, I discovered my approach to solving challenges that has served me well over the years. Plus, my sister got her dream prom dress. Win-win.
 
-⭐ I'm currently looking to shift career gears into **Site Reliability Engineering**.
+⭐ I'm currently looking to shift career gears into **Data Analytics Leadership**.
 
 - 🔭 I’m currently working on **Career Acceleration**
 - 🌱 I’m currently learning **Python**
